@@ -17,4 +17,4 @@ While discussing this with some friends, it seems that it would be good to compa
 Right now, this project is under active development. By the end of the semester, I need to have a 4-5 page paper on the topic. My current outline seems to be for a much bigger project than the Junior Seminar, so I'll probably have to cut it down for this semester. I'll probably store the extra content I produce here for when I do my Thesis.
 
 # Current progress
-I'm working on my [outline](Outline.md).
+I'm working on my [outline](Outline.md). Please feel free to [comment on it](https://github.com/2br-2b/Github-Copilot-Project/discussions), [suggest changes](https://github.com/2br-2b/Github-Copilot-Project/edit/master/Outline.md), or [bring up any problems](https://github.com/2br-2b/Github-Copilot-Project/issues) you have with it!
