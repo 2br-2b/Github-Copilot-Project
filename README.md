@@ -16,4 +16,5 @@ While discussing this with some friends, it seems that it would be good to compa
 
 Right now, this project is under active development. By the end of the semester, I need to have a 4-5 page paper on the topic. My current outline seems to be for a much bigger project than the Junior Seminar, so I'll probably have to cut it down for this semester. I'll probably store the extra content I produce here for when I do my Thesis.
 
-Current progress: working on my [Outline](Outline.md)
+# Current progress
+I'm working on my [outline](Outline.md).
