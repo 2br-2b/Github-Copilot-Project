@@ -27,6 +27,8 @@
   - Use an editor with syntax highlighting and intelligent code completion (ex. IntelliSense)
   - Use the previous plus snippets. Snippets are code that the editor automatically completes for you (when you type `functionname`, it can autocomplete the header `public static void functionname(){}`, automatic getter/setter function generators). Snippets are used to remove the monotony of rewriting the same code over and over again
   - Github copilot is the next level where it automatically writes entire functions/classes for you. It's like snippets on steroids
+  - Copy/paste from the internet. Get the code from someone else and make minor tweaks to fit the professor's criteria
+  - Pay someone else to do your homework for you. You're learning essential management skills, like how to delegate and the importance and value of money!
 - It's up to professors to decide what sort of tools are allowed to be used on assignments and to make this policy clear to students
 - Side note: is using code linting cheating?
   - Code linting is different from Copilot and autocomplete because, rather than the computer writing the code for you, linters simply check your code after you've written it yourself
