@@ -1,4 +1,4 @@
-Notice: Most of the important questions are asked in the [outline](Outline.md). Not all of these questions are asked, though, so feel free to contribute here!
+**Notice**: Most of the important questions are asked in the [outline](Outline.md). Not all of these questions are asked, though, so feel free to contribute here!
 
 This is just a scratchpad which can be used to bring up miscellaneous questions about Github Copilot.
 
