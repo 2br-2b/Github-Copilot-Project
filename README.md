@@ -1,5 +1,5 @@
 # Github Copilot Experiment
-This is a project (currently a Junior Seminar, potentially a Senior Thesis) I'm working on about Github Copilot and about how it will effect the teaching/learning environment.
+This is a project (currently a Junior Seminar, potentially a Senior Thesis) I'm working on about Github Copilot and about how it will effect the teaching/learning environment. If you want updates on the project, watch this repository. I'll be posting major updates in the releases section of the repo.
 
 # Help me out!
 
