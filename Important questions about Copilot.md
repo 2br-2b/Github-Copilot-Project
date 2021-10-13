@@ -25,3 +25,5 @@ This is just a scratchpad which can be used to bring up miscellaneous questions 
 - How will this be used in the future?
 
 **Is using Copilot really cheating?** Where do we draw the line for cheating?
+ 
+- There's also a tool called [Tabnine](https://www.tabnine.com/) which is similar. It seems, however, that Tabnine is meant for smaller predictions. Tabnine is based on GPT-2 rather than OpenAI. Which performs better?
