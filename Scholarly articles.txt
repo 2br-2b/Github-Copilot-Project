@@ -3,4 +3,9 @@
 - *How AI could kill democracy* by Jamie Bartlett. New Statesman. 8/17/2018, Vol. 147 Issue 5432, p28-32. 5p. 2 Color Photographs, 1 Illustration.
 
 
+
+https://thenextweb.com/news/this-ai-powered-autocompleter-tool-can-speed-up-your-coding - Simply states a program called Tabnine exists which is powered by AI. It seems, however, that it isn't meant to be as powerful as copilot. I'll need to test.
+
+https://newsbrig.com/openais-latest-breakthrough-is-astonishingly-powerful-but-still-fighting-its-flaws/82651/
+
 https://search.ebscohost.com/login.aspx?direct=true&db=cph&AN=144780566&site=ehost-live
