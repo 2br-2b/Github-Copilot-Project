@@ -1,6 +1,9 @@
 - *GPT-3.* by Will Douglas. MIT Technology Review. Mar/Apr2021
 - *The hidden costs of AI.* by Kate Crawford. New Scientist. 3/27/2021, Vol. 249 Issue 3327, p46-49. 4p.
 - *How AI could kill democracy* by Jamie Bartlett. New Statesman. 8/17/2018, Vol. 147 Issue 5432, p28-32. 5p. 2 Color Photographs, 1 Illustration.
+- Savage, Neil. “Your Wish Is My CMD: Artificial Intelligence Could Automate Software Coding.” Communications of the ACM, vol. 63, no. 7, July 2020, pp. 15–16. EBSCOhost, doi:10.1145/3398392.
+
+
 
 
 https://search.ebscohost.com/login.aspx?direct=true&db=cph&AN=144780566&site=ehost-live
