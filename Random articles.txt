@@ -2,6 +2,7 @@ Original idea: https://youtu.be/60NGxX7m1Mw?t=2308
 My twitter thread: https://twitter.com/TheReal2br_2b/status/1444767181036683268
 
 From Microsoft:
+https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/
 https://arxiv.org/abs/2107.03374
 https://docs.github.com/en/github/copilot/research-recitation
 https://paperswithcode.com/paper/evaluating-large-language-models-trained-on
@@ -12,3 +13,4 @@ https://en.wikipedia.org/wiki/Intelligent_code_completion
 https://blog.seekwell.io/gpt3
 https://twitter.com/sharifshameem/status/1282676454690451457?s=20
 https://www.theverge.com/2020/8/16/21371049/gpt3-hacker-news-ai-blog
+https://www.fast.ai/2021/07/19/copilot/
