@@ -34,4 +34,4 @@ Right now, this project is under active development. By the end of the semester,
 In order to determine the methodology I will use for the experiment, I have a few options I'm considering listed in [methodology](Methodology.md)
 
 ## 🔨 Current progress
-I'm working on my [outline](Outline.md).
+I'm working on my [Rough draft](Rough draft.md). Feel free to leave any comments or feedback!
