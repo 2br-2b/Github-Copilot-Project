@@ -25,7 +25,7 @@ I have professors give me a dummy account in each of their classes. In each of t
 - Some professors may not grade anonymously
 
 
-# Methodology 3
+# ~~Methodology 3~~ - removed because privacy laws will likely disallow it
 Have a student submit an assignment as their own. After getting the professor's approval, get a list of the students in the class. Chose one or more of the students and contact them. Instead of submitting the assignment they write themselves, I'll randomly give them an assignment from Copilot, from the internet, or tell them to just submit their own work (as a control group). I'll have them email me their assignment which I will send to the professor myself (so that the student can still be graded normally). After the students receive back their grades, I'll let the professor know which students were the test subjects so that the professor can correct their grades.
 
 Also, I'd as the professors for statistics like average, standard deviation, and so on in order to see if my assignment is statistically different from the other assignments.
@@ -37,7 +37,7 @@ Also, I'd as the professors for statistics like average, standard deviation, and
 - I don't have to do any assignments myself - we use a student's work as a comparison, which should be a better indicator of the class anyway
 
 ## Cons
-- I'll need a list of all the students in the class, which brings up privacy issues. Does the professor need to get each of the students' permission to give me their names/email addresses?
+- I'll need a list of all the students in the class, which brings up privacy issues. Does the professor need to get each of the students' permission to give me their names/email addresses? This is a major privacy issue.
 - Some students may not respond to my attempts to contact them. I could choose a different student if they don't respond quick enough, but this could lead to biased data
 - Students will need to be careful not to hint to the professor that they are in the experimental group
 - If a student has certain conventions they usually use, the professor can see if these are or are not present and use this to determine which students are in the experimental group
