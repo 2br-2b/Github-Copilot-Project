@@ -1,0 +1,11 @@
+# Current methods of cheating
+
+Github Copilot, of course, will only be a good tool for cheaters if it's better then the alternatives. It would be wise to compare cheating using Github Copilot to cheating using other tools.
+
+The first (and perhaps most archaic way) would be to copy a friend's code. Perhaps one of the best-known methods of cheating, it requires a less-competent student to find a more competent student and steal their work. This is differentiated from asking another student to help you because you will not end up doing any of the work - you will simply submit the exact same assignment as another. Often, not many changes will be made to the assignment (sometimes, only the student's name on the work will change) before it is submitted. The benefit with this is that you will likely trust the source of the code to be accurate. However, if professors saw that two students submit the exact same assignment with the exact same variable names, syntax, etc., it would be obvious that the students were cheating. In addition, if the better student makes a mistake, it will also be copied over into the other student's work.
+
+Another source of cheating would be to ask or to pay an expert to do your work for you. In this case, you choose a non-student (perhaps someone who has already taken the class or someone from Fiver) and have them do the assignment and give you the work. The benefit is that your work is unique and no one else in the class will have the same submission as you. The downside is that, if you're asked any questions about your work, you won't be able to answer them.
+
+Closely related to this would be to search for your assignment on the internet. Oftentimes, different professors may assign similar (if not the same) assignments. If you search for your assignment on the internet, you can often find a lot of other people's work. Even if your specific question hasn't been answered, you can post the question yourself on Reddit or some other internet forum and ask for answers. The problem becomes that, since these answers are publicly available, plagiarism bots can scan for assignments lifted from the internet and flag them for teachers to review.
+
+The question then becomes how Github Copilot stacks up to these other methods. Is its AI-generated code as good (or even better than) assignments stolen from these sources?
