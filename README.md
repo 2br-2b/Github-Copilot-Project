@@ -4,13 +4,11 @@ Hi! 👋
 
 This is a project (currently a Junior Seminar, potentially a Senior Thesis) I'm working on about Github Copilot and about how it will effect the teaching/learning environment.
 
+To read the current version, _**[CLICK HERE](https://github.com/2br-2b/Github-Copilot-Project/blob/junior-seminar/Report.md)**_.
+
 # 🙋 Help me out!
 
-Right now, I'm working on [determining my experimental methodology](Methodology.md) and working on [my outline](Outline.md). Feel free to help me out or give me any feedback you have!
-
-# 🤔 Updates
-
-If you want updates on the project, watch this repository. I'll be posting major updates in the releases section of the repo.
+Right now, I'm working on [determining my experimental methodology](Methodology.md). I just finished my Junior Seminar report - I just need to touch it up a bit before I submit it to some journals. Feel free to give me 
 
 ---
 
@@ -34,4 +32,4 @@ Right now, this project is under active development. By the end of the semester,
 In order to determine the methodology I will use for the experiment, I have a few options I'm considering listed in [methodology](Methodology.md)
 
 ## 🔨 Current progress
-I'm working on my [Rough draft](Rough draft.md). Feel free to leave any comments or feedback!
+I finished my [Junior Seminar version](https://github.com/2br-2b/Github-Copilot-Project/releases/tag/v1.0.0) of the paper. Now, on to the thesis study!
